@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4893'
     url: http://www.gutenberg.org/2009/agents/4893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13190#De-l-importance-des-livres-de-raison-au-point-de-vue-arch-ologique
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
